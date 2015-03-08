@@ -8,4 +8,4 @@ WP_HWs
  * C++/CLI 語言部分使用 [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) by JamesNK
  * MFC (HW6) 使用 [Jsoncpp](https://github.com/open-source-parsers/jsoncpp)
 
-> 如果你是修這門課的學弟妹，可以拿來參考，抄襲對你的 Programming 能力沒有幫助
+> 如果你是修這門課的學弟妹，這邊的程式碼僅供參考，抄襲對你的 Programming 能力沒有幫助 (而且以老師的課程設計應該沒辦法讓你抄XDD)
