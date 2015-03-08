@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="原始程式檔">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="標頭檔">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="資源檔">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="AucSys.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="AucProduct.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="AucBid.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="AucAdd.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="AucShip.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="AucOrder.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="AucGet.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="helpers.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="AucRole.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="AucBuyer.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="AucSeller.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="ConsoleView.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="AucBase.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="AucRela.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="AucItem.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="app.rc">
+      <Filter>資源檔</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="WP_HW4_4101056017.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="AssemblyInfo.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="AucSys.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="AucProduct.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="AucBid.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="AucAdd.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="AucShip.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="AucOrder.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="AucGet.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="helpers.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="AucRole.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="AucBuyer.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="AucSeller.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="ConsoleView.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="AucBase.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="AucRela.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="AucItem.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="app.ico">
+      <Filter>資源檔</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "name": "aa",
+      "quantity": 100,
+      "remaining": 100,
+      "bids_times": 0,
+      "init_bid": 100,
+      "bid": 100,
+      "winning_bid": 200,
+      "shipping_cost": 100,
+      "deadline": 1420041600,
+      "owner": {
+        "src": 0,
+        "target": 0
+      },
+      "bids": [],
+      "key": 0
+    },
+    {
+      "name": "kk",
+      "quantity": 200,
+      "remaining": 200,
+      "bids_times": 0,
+      "init_bid": 300,
+      "bid": 300,
+      "winning_bid": 400,
+      "shipping_cost": 100,
+      "deadline": 1420128000,
+      "owner": {
+        "src": 1,
+        "target": 1
+      },
+      "bids": [],
+      "key": 1
+    },
+    {
+      "name": "dd",
+      "quantity": 150,
+      "remaining": 150,
+      "bids_times": 0,
+      "init_bid": 120,
+      "bid": 120,
+      "winning_bid": 200,
+      "shipping_cost": 10,
+      "deadline": 1420300800,
+      "owner": {
+        "src": 1,
+        "target": 2
+      },
+      "bids": [],
+      "key": 2
+    }
+  ],
+  "users": [
+    {
+      "name": "pastleo",
+      "key": 0,
+      "products": [
+        {
+          "src": 0,
+          "target": 0
+        }
+      ],
+      "bids": []
+    },
+    {
+      "name": "teacher",
+      "key": 1,
+      "products": [
+        {
+          "src": 1,
+          "target": 1
+        },
+        {
+          "src": 1,
+          "target": 2
+        }
+      ],
+      "bids": []
+    }
+  ],
+  "bids": []
+}

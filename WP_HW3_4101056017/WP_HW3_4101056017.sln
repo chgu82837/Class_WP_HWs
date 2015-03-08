@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WP_HW3_4101056017", "WP_HW3_4101056017\WP_HW3_4101056017.vcxproj", "{F3F3B37D-DC00-49B1-BA4B-AD27E147CC86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		para|Win32 = para|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3F3B37D-DC00-49B1-BA4B-AD27E147CC86}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F3F3B37D-DC00-49B1-BA4B-AD27E147CC86}.Debug|Win32.Build.0 = Debug|Win32
+		{F3F3B37D-DC00-49B1-BA4B-AD27E147CC86}.para|Win32.ActiveCfg = para|Win32
+		{F3F3B37D-DC00-49B1-BA4B-AD27E147CC86}.para|Win32.Build.0 = para|Win32
+		{F3F3B37D-DC00-49B1-BA4B-AD27E147CC86}.Release|Win32.ActiveCfg = Release|Win32
+		{F3F3B37D-DC00-49B1-BA4B-AD27E147CC86}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

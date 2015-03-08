@@ -1,0 +1,76 @@
+{
+  "auctions": [
+    {
+      "name": "win10",
+      "number": 100,
+      "init_bid": 5,
+      "bid": 20,
+      "winning_bid": 100,
+      "shipping_cost": 1,
+      "deadline": 1420041567
+    },
+    {
+      "name": "iphone7",
+      "number": 100,
+      "init_bid": 5,
+      "bid": 5,
+      "winning_bid": 1000,
+      "shipping_cost": 5,
+      "deadline": 1444492751
+    },
+    {
+      "name": "degree",
+      "number": 100000,
+      "init_bid": 1,
+      "bid": 1,
+      "winning_bid": 3,
+      "shipping_cost": 0,
+      "deadline": 1417363243
+    },
+    {
+      "name": "win11",
+      "number": 100,
+      "init_bid": 5,
+      "bid": 5,
+      "winning_bid": 100,
+      "shipping_cost": 5,
+      "deadline": 776736782
+    },
+    {
+      "name": "iphone8",
+      "number": 100,
+      "init_bid": 5,
+      "bid": 5,
+      "winning_bid": 10000,
+      "shipping_cost": 100,
+      "deadline": 1412907045
+    },
+    {
+      "name": "123",
+      "number": 123,
+      "init_bid": 1231,
+      "bid": 1231,
+      "winning_bid": 2123,
+      "shipping_cost": 123,
+      "deadline": 966125617
+    },
+    {
+      "name": "haha",
+      "number": 123,
+      "init_bid": 12,
+      "bid": 12,
+      "winning_bid": 123,
+      "shipping_cost": 12,
+      "deadline": 1407892397
+    },
+    {
+      "name": "ubuntu",
+      "number": 123,
+      "init_bid": 123,
+      "bid": 123,
+      "winning_bid": 1234,
+      "shipping_cost": 123,
+      "deadline": 1577811702
+    }
+  ]
+}
