@@ -1,0 +1,6 @@
+{
+  "auctions":
+  [
+    {"name":"haha","number":1,"init_bid":1,"winning_bid":1,"shipping_cost":1,"deadline":946656013},
+  ],
+}

@@ -1,0 +1,8 @@
+{
+  "auctions":
+  [
+    {"name":"a","number":123,"init_bid":234,"winning_bid":345,"shipping_cost":456,"deadline":946659668},
+    {"name":"b","number":123,"init_bid":234,"winning_bid":345456,"shipping_cost":123,"deadline":2524582884},
+    {"name":"c","number":33,"init_bid":44,"winning_bid":55,"shipping_cost":66,"deadline":757397566},
+  ],
+}
